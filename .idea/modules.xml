@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/easy/169/majority-element-py/majority-element-py.iml" filepath="$PROJECT_DIR$/easy/169/majority-element-py/majority-element-py.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy/155/min-stack-py/min-stack-py.iml" filepath="$PROJECT_DIR$/easy/155/min-stack-py/min-stack-py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/189/rotate-array-py/rotate-array-py.iml" filepath="$PROJECT_DIR$/easy/189/rotate-array-py/rotate-array-py.iml" />
     </modules>
   </component>
 </project>

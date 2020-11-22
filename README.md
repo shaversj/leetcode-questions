@@ -11,7 +11,7 @@ https://leetcode.com/list/xix1yu51/
 |          | 21. Merge Two Sorted Lists                        |
 |          | 141. Linked List Cycle                            |
 | Yes      | 155. Min Stack                                    |
-|          | 169. Majority Element                             |
+| Yes      | 169. Majority Element                             |
 |          | 202. Happy Number                                 |
 |          | 204. Count Primes                                 |
 |          | 242. Valid Anagram                                |
