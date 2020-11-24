@@ -7,7 +7,7 @@ https://leetcode.com/list/xix1yu51/
 | Complete | LeetCode Questions                                |
 |----------|---------------------------------------------------|
 |          | 13. Roman to Integer                              |
-|          | 20. Valid Parentheses                             |
+| Yes      | 20. Valid Parentheses (Stack)                            |
 |          | 21. Merge Two Sorted Lists                        |
 |          | 141. Linked List Cycle                            |
 | Yes      | 155. Min Stack                                    |
@@ -18,7 +18,7 @@ https://leetcode.com/list/xix1yu51/
 |          | 371. Sum of Two Integers                          |
 |          | 88. Merge Sorted Array                            |
 |          | 108. Convert Sorted Array to Binary Search Tree   |
-|          | 189. Rotate Array                                 |
+| Half         | 189. Rotate Array                                 |
 |          | 205. Isomorphic Strings                           |
 |          | 226. Invert Binary Tree                           |
 |          | 448. Find All Numbers Disappeared in an Array     |
