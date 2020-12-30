@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/easy/21/merge-to-sorted-list-py/merge-to-sorted-list-py.iml" filepath="$PROJECT_DIR$/easy/21/merge-to-sorted-list-py/merge-to-sorted-list-py.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy/155/min-stack-py/min-stack-py.iml" filepath="$PROJECT_DIR$/easy/155/min-stack-py/min-stack-py.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy/189/rotate-array-py/rotate-array-py.iml" filepath="$PROJECT_DIR$/easy/189/rotate-array-py/rotate-array-py.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy/242/valid-anagram-py/valid-anagram-py.iml" filepath="$PROJECT_DIR$/easy/242/valid-anagram-py/valid-anagram-py.iml" />
       <module fileurl="file://$PROJECT_DIR$/easy/20/valid-parentheses-py/valid-parentheses-py.iml" filepath="$PROJECT_DIR$/easy/20/valid-parentheses-py/valid-parentheses-py.iml" />
     </modules>
   </component>
