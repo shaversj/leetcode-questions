@@ -6,7 +6,7 @@ https://leetcode.com/list/xix1yu51/
 
 | Complete | LeetCode Questions                                |
 |----------|---------------------------------------------------|
-|          | 13. Roman to Integer                              |
+| Yes      | 13. Roman to Integer                              |
 | Yes      | 20. Valid Parentheses (Stack)                            |
 |          | 21. Merge Two Sorted Lists                        |
 |          | 141. Linked List Cycle                            |
@@ -14,7 +14,7 @@ https://leetcode.com/list/xix1yu51/
 | Yes      | 169. Majority Element                             |
 |          | 202. Happy Number                                 |
 |          | 204. Count Primes                                 |
-| Yes         | 242. Valid Anagram                                |
+| Yes      | 242. Valid Anagram                                |
 |          | 371. Sum of Two Integers                          |
 |          | 88. Merge Sorted Array                            |
 |          | 108. Convert Sorted Array to Binary Search Tree   |
