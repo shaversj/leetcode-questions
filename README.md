@@ -13,7 +13,7 @@ https://leetcode.com/list/xix1yu51/
 | Yes      | 155. Min Stack                                    |
 | Yes      | 169. Majority Element                             |
 |          | 202. Happy Number                                 |
-|          | 204. Count Primes                                 |
+| Yes         | 204. Count Primes                                 |
 | Yes      | 242. Valid Anagram                                |
 |          | 371. Sum of Two Integers                          |
 |          | 88. Merge Sorted Array                            |
