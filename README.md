@@ -18,7 +18,7 @@ https://leetcode.com/list/xix1yu51/
 |          | 371. Sum of Two Integers                          |
 |          | 88. Merge Sorted Array                            |
 |          | 108. Convert Sorted Array to Binary Search Tree   |
-| Half         | 189. Rotate Array                                 |
+| Yes      | 189. Rotate Array                                 |
 |          | 205. Isomorphic Strings                           |
 |          | 226. Invert Binary Tree                           |
 |          | 448. Find All Numbers Disappeared in an Array     |
